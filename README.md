@@ -55,8 +55,6 @@ pgzrun game.py
 
 ## Screenshots do jogo:
 
-<video controls src="./assets-readme/jogabilidade.mp4" title="Video-demonstração jogabilidade"></video>
-*Vídeo demonstrativo jogabilidade*
 
 ![ScreenShot Menu inicial](./assets-readme/menu.png)
 

@@ -68,4 +68,6 @@ pgzrun game.py
 
 *Screenshot tela do jogo nivel 1*
 
+[Vídeo demonstrativo](./assets-readme/jogabilidade.mp4)
+
 

@@ -55,18 +55,18 @@ pgzrun game.py
 
 ## Screenshots do jogo:
 
-<video controls src="20260211-1311-26.0095924.mp4" title="Title"></video>
+<video controls src="./assets-readme/jogabilidade.mp4" title="Video-demonstração jogabilidade"></video>
 *Vídeo demonstrativo jogabilidade*
 
-![ScreenShot Menu inicial](<Captura de tela 2026-02-11 101431.png>)
+![ScreenShot Menu inicial](./assets-readme/menu.png)
 
 *Menu inicial*
 
-![ScreenShot tela de transição de níveis](<Captura de tela 2026-02-11 101446.png>)
+![ScreenShot tela de transição de níveis](./assets-readme/tela-nivel.png)
 
 *Tela de transição/início do nível*
 
-![ScreenShot jogabilidade](image.png)
+![ScreenShot jogabilidade](./assets-readme/jogabilidade.png)
 
 *Screenshot tela do jogo nivel 1*
 
